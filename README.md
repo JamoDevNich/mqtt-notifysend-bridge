@@ -3,10 +3,15 @@
 
 ## Getting Started
 ### Requirements
-Python 3.6 and above, with pip
+- Python 3.6 and above
+- pip 19.1 and above
 
 ### Installation
+#### Windows
 Clone this directory locally, and install with `pip install .`
+
+#### Linux
+Clone this directory locally, and install with `python3 -m pip install .`
 
 ### Usage
 ```
